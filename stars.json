@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "flutter/flutter",
+    "stargazers_count": 148468,
+    "open_issues_count": 11510,
+    "forks_count": 24303
+  },
+  {
     "full_name": "VeriorPies/ParrelSync",
-    "stargazers_count": 2740,
+    "stargazers_count": 2757,
     "open_issues_count": 31,
-    "forks_count": 184
+    "forks_count": 186
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6976,
-    "open_issues_count": 3,
-    "forks_count": 826
+    "stargazers_count": 6991,
+    "open_issues_count": 4,
+    "forks_count": 831
   },
   {
     "full_name": "danfortsystems/recruitment-and-onboarding",
@@ -31,27 +37,27 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 4116,
+    "stargazers_count": 4131,
     "open_issues_count": 0,
     "forks_count": 175
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 106818,
+    "stargazers_count": 106916,
     "open_issues_count": 0,
-    "forks_count": 11083
+    "forks_count": 11090
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 16325,
+    "stargazers_count": 16361,
     "open_issues_count": 31,
-    "forks_count": 1432
+    "forks_count": 1446
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 49948,
+    "stargazers_count": 50023,
     "open_issues_count": 8,
-    "forks_count": 7158
+    "forks_count": 7169
   },
   {
     "full_name": "JohannesMilke/firebase_chat_example",
@@ -73,27 +79,27 @@
   },
   {
     "full_name": "Adrinlol/landy-react-template",
-    "stargazers_count": 872,
+    "stargazers_count": 873,
     "open_issues_count": 4,
     "forks_count": 322
   },
   {
     "full_name": "microsoft/GDK",
-    "stargazers_count": 1342,
+    "stargazers_count": 1343,
     "open_issues_count": 11,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "sonnysangha/Amazon-starter-template-nextjs",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 2,
-    "forks_count": 153
+    "forks_count": 154
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 9293,
+    "stargazers_count": 9318,
     "open_issues_count": 44,
-    "forks_count": 3999
+    "forks_count": 4010
   },
   {
     "full_name": "Sami64/Chat-Messaging-App-Light-and-Dark-Theme",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "bedimcode/portfolio-responsive-complete",
-    "stargazers_count": 669,
+    "stargazers_count": 671,
     "open_issues_count": 11,
-    "forks_count": 603
+    "forks_count": 604
   },
   {
     "full_name": "mamoniem/Crosswords",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "pacifio/flutter_apps",
-    "stargazers_count": 690,
+    "stargazers_count": 697,
     "open_issues_count": 0,
     "forks_count": 167
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "sonnysangha/react-shopping-cart",
-    "stargazers_count": 35,
+    "stargazers_count": 37,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "Sami64/ui-designs",
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "yoosuf/Messenger",
-    "stargazers_count": 512,
+    "stargazers_count": 513,
     "open_issues_count": 1,
     "forks_count": 145
   },
   {
     "full_name": "developerpaaji/Flutter-Dribbble-Challenge",
-    "stargazers_count": 602,
+    "stargazers_count": 603,
     "open_issues_count": 0,
     "forks_count": 160
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "leo-elstin/Flutter-UI-Kits",
-    "stargazers_count": 1220,
-    "open_issues_count": 1,
-    "forks_count": 411
   }
 ]
