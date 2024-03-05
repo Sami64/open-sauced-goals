@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "panagiop/node.js-clean-architecture",
+    "stargazers_count": 602,
+    "open_issues_count": 1,
+    "forks_count": 119
+  },
+  {
     "full_name": "gayanvoice/top-github-users",
-    "stargazers_count": 3223,
-    "open_issues_count": 131,
-    "forks_count": 524
+    "stargazers_count": 3230,
+    "open_issues_count": 132,
+    "forks_count": 523
   },
   {
     "full_name": "Fabrice-Fabio/riverpood-clean-archi-flutter",
@@ -13,21 +19,21 @@
   },
   {
     "full_name": "gskinnerTeam/flutter-wonderous-app",
-    "stargazers_count": 3621,
+    "stargazers_count": 3629,
     "open_issues_count": 19,
-    "forks_count": 839
+    "forks_count": 841
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8145,
+    "stargazers_count": 8159,
     "open_issues_count": 3,
-    "forks_count": 508
+    "forks_count": 509
   },
   {
     "full_name": "mbeaudru/modern-js-cheatsheet",
-    "stargazers_count": 25016,
-    "open_issues_count": 10,
-    "forks_count": 3101
+    "stargazers_count": 25025,
+    "open_issues_count": 11,
+    "forks_count": 3106
   },
   {
     "full_name": "popekabu/pay_with_paystack",
@@ -37,19 +43,19 @@
   },
   {
     "full_name": "ravi84184/flutter_hr_management_design",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 2,
     "forks_count": 46
   },
   {
     "full_name": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
-    "stargazers_count": 6315,
+    "stargazers_count": 6319,
     "open_issues_count": 31,
-    "forks_count": 1778
+    "forks_count": 1777
   },
   {
     "full_name": "mesrenyamedogbe/made-in-ghana",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -69,25 +75,25 @@
     "full_name": "Your-First-Open-Source-Project/start-here",
     "stargazers_count": 191,
     "open_issues_count": 1,
-    "forks_count": 211
+    "forks_count": 213
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 160373,
-    "open_issues_count": 12395,
-    "forks_count": 26285
+    "stargazers_count": 160447,
+    "open_issues_count": 12413,
+    "forks_count": 26297
   },
   {
     "full_name": "VeriorPies/ParrelSync",
-    "stargazers_count": 4054,
+    "stargazers_count": 4072,
     "open_issues_count": 42,
-    "forks_count": 284
+    "forks_count": 285
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
     "stargazers_count": 7708,
-    "open_issues_count": 6,
-    "forks_count": 957
+    "open_issues_count": 7,
+    "forks_count": 959
   },
   {
     "full_name": "danfortsystems/recruitment-and-onboarding",
@@ -109,27 +115,27 @@
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 7445,
+    "stargazers_count": 7502,
     "open_issues_count": 0,
-    "forks_count": 306
+    "forks_count": 307
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 118319,
+    "stargazers_count": 118370,
     "open_issues_count": 0,
     "forks_count": 11809
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 21998,
-    "open_issues_count": 53,
-    "forks_count": 2048
+    "stargazers_count": 22128,
+    "open_issues_count": 54,
+    "forks_count": 2056
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 63516,
+    "stargazers_count": 63558,
     "open_issues_count": 0,
-    "forks_count": 8813
+    "forks_count": 8814
   },
   {
     "full_name": "JohannesMilke/firebase_chat_example",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "itsmefarhan/react-firebase-chat",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 1,
     "forks_count": 24
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "Adrinlol/landy-react-template",
-    "stargazers_count": 1108,
+    "stargazers_count": 1113,
     "open_issues_count": 6,
     "forks_count": 398
   },
   {
     "full_name": "microsoft/GDK",
-    "stargazers_count": 1456,
+    "stargazers_count": 1459,
     "open_issues_count": 25,
-    "forks_count": 97
+    "forks_count": 94
   },
   {
     "full_name": "sonnysangha/Amazon-starter-template-nextjs",
-    "stargazers_count": 364,
+    "stargazers_count": 365,
     "open_issues_count": 2,
     "forks_count": 181
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 11593,
+    "stargazers_count": 11618,
     "open_issues_count": 45,
-    "forks_count": 4329
-  },
-  {
-    "full_name": "Sami64/Chat-Messaging-App-Light-and-Dark-Theme",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 4327
   }
 ]
